@@ -1,0 +1,47 @@
+.imageLogo {
+  height: 30px;
+  width: 100px;
+  margin: 20px;
+}
+.container1 {
+  display: flex;
+  /* flex-wrap: wrap; */
+  /* flex-direction: row; */
+  /* justify-content: space-around; */
+  font-family: 'Roboto';
+}
+.con1 {
+  display: flex;
+  background-color: #272727;
+  width: 100vw;
+}
+.liCon {
+  list-style: none;
+  margin-left: 500px;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: white;
+}
+.liCon1 {
+  list-style: none;
+  margin-left: 50px;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: white;
+  margin-top: 20px;
+}
+.button1 {
+  height: 40px;
+  width: 145px;
+  background-color: #4f46e5;
+  color: white;
+  border-style: none;
+  margin-left: 250px;
+  margin-top: 10px;
+}
+.nav-items {
+  text-decoration: none;
+  color: white;
+}

@@ -1,0 +1,84 @@
+.companyImg {
+  height: 40px;
+  width: 40px;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+.headingtitle {
+  font-size: 18px;
+  font-family: 'Roboto';
+}
+.con {
+  display: flex;
+  flex-direction: column;
+}
+.container1 {
+  display: flex;
+  flex-direction: row;
+}
+.locationContainer {
+  display: flex;
+  flex-direction: row;
+}
+.pacPara {
+  margin-left: 500px;
+}
+.ratingCon {
+  display: flex;
+  flex-direction: row;
+}
+.jobCon1 {
+  margin-left: 10px;
+}
+.similarJobsContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  margin: 30px;
+  padding: 30px;
+  background-color: #121212;
+}
+.mainContainerJobs1 {
+  background-color: #121212;
+  text-align: start;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  /* height: 600vh; */
+  color: white;
+}
+.simHead {
+  padding-left: 60px;
+}
+.skillsList {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  margin: 70px;
+}
+.imag12 {
+  height: 40px;
+  width: 40px;
+  margin-top: 20px;
+  margin-right: 10px;
+  margin: 10px;
+}
+.skilCon {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+.sub-conLis {
+  background-color: #272727;
+  margin: 60px;
+  padding: 60px;
+  border-radius: 12px;
+}
+.jobs_container {
+  background-color: #121212;
+  color: white;
+  text-align: center;
+}

@@ -1,0 +1,75 @@
+.mainContainerJobs {
+  background-color: #121212;
+  text-align: start;
+  padding: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  /* height: 600vh; */
+  color: white;
+}
+.userCon {
+  display: flex;
+  flex-direction: column;
+  /* height: 300px;
+  width: 500px; */
+  color: white;
+}
+.con {
+  display: flex;
+  flex-direction: column;
+}
+
+.img1 {
+  height: 60px;
+  width: 20px;
+  text-align: start;
+}
+
+.input12 {
+  height: 40px;
+  width: 250px;
+  /* margin: 10px; */
+  background-color: #121212;
+  color: white;
+}
+.inputContainer {
+  background-color: #475569;
+  width: 300px;
+  height: 40px;
+  margin: 20px;
+  margin-left: 60px;
+}
+.headsal {
+  font-size: 18px;
+  font-family: 'Roboto';
+}
+.button11 {
+  background-color: #6366f1;
+  color: white;
+  border-style: none;
+  border-radius: 4px;
+  height: 40px;
+  width: 100px;
+}
+.user_container1 {
+  border-radius: 12px;
+  min-height: 170px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.hr-con1 {
+  margin-top: 30px;
+}
+.salaryList1 {
+  list-style-type: none;
+}
+.employee-list-con {
+  list-style-type: none;
+}
+.btn124 {
+  background-color: #475569;
+  border-style: none;
+}
